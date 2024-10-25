@@ -1,1 +1,1 @@
-# Resource-management
+# Resource-management== Requirements  The following are the requirements for the Tech Support Chatbot, prioritized using the MoSCoW method.  === Must-Have - Provide troubleshooting assistance for common technical issues, including hardware (e.g., printers) and software problems. - Offer a secondary mode for career-related services, such as resume optimization and cover letter writing. 
